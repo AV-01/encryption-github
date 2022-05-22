@@ -21,4 +21,4 @@ That's all you need to do. If somebody has the "key" that you use, which is just
 
 
 
-There's very little chance that anyboyd will see this and care, so I'm probably just writing this for my future self to see.
+There's very little chance that anybody will see this and care, so I'm probably just writing this for my future self to see.
